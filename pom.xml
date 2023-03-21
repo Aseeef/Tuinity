@@ -14,7 +14,11 @@
         </repository>
         <repository>
             <id>velocity-snapshots</id>
-            <url>https://nexus.velocitypowered.com/repository/velocity-artifacts-snapshots/</url>
+            <url>https://repo.papermc.io/repository/maven-public/</url>
+        </repository>
+        <repository>
+            <id>apache-snapshot</id>
+            <url>https://repository.apache.org/content/groups/snapshots/</url>
         </repository>
     </repositories>
 
